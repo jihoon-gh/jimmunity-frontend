@@ -15,4 +15,4 @@
 * **Frontend** : Vue.js(maybe..)
 
 ### 진행 상황
-* 20230104 : repository init
+* 20230116 : repository init
